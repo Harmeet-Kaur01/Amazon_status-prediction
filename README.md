@@ -1,1 +1,3 @@
 # Amazon_status-prediction
+
+Our analysis's goal is to identify the variables that influence the quantity of sales of various types of clothing, including consumer preferences for various levels of service and distribution channels and states with strong demand. This will assist Amazon in choosing a specific customer service model, product manufacturer, and channel of distribution. Few columns and rows that are not necessary for us to achieve our goal will be dropped in favor of imputing the values of crucial columns and rows. Additionally, as non-numerical data cannot be extrapolated or used for analysis, we have encoded and normalized the data values to facilitate analysis.
